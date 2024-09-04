@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Deploying AWS infrastructure..."
+# Add your AWS CLI commands here
